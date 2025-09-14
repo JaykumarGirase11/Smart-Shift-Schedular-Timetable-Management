@@ -1,11 +1,2 @@
-import TimetableGenerator from './TimetableGenerator';
-import TimetableDisplay from './TimetableDisplay';
-import EmployeeManagement from './EmployeeManagement';
-import ShiftManagement from './ShiftManagement';
-
-export {
-  TimetableGenerator,
-  TimetableDisplay,
-  EmployeeManagement,
-  ShiftManagement
-};
+// No components to export - using main App.tsx for all functionality
+export {};
